@@ -17,7 +17,7 @@ docker run \
     -v /tmp/.X11-unix:/tmp/.X11-unix \
     -v $ORACLE_SQLDEVELOPER_VOLUME:/data \
     --rm \
-    -d shenron/oracle-sqldeveloper:4.0.2  \
+    -d shenron/oracle-sqldeveloper:4.0.2
 ```
 
 ---
